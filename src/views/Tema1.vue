@@ -5,14 +5,14 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Normatividad Avícola Colombiana
+      h1 Normatividad avícola colombiana
 
-    p.mb-5 Reconocer las normas que legislan las labores relacionadas con el tema avícola es de gran importancia puesto que se dictan las reglas para ajustarse a las tendencias sanitarias, bioseguras y ambientales a nivel mundial, de tal forma que se pueda entrar en el mercado de manera más amplia. Es así como en esta etapa de recolección y acopio del huevo, la legislación colombiana va dirigida a la preservación de la estructura, la calidad y la inocuidad del producto. A continuación, se explican las más importantes: 
+    p.mb-5 Reconocer las normas que legislan las labores relacionadas con el tema avícola es de gran importancia, puesto que se dictan las reglas para ajustarse a las tendencias sanitarias, bioseguras y ambientales a nivel mundial, de tal forma que se pueda entrar en el mercado de manera más amplia. Es así como en esta etapa de recolección y acopio del huevo, la legislación colombiana va dirigida a la preservación de la estructura, la calidad y la inocuidad del producto. A continuación, se explican las más importantes: 
 
     AcordionA.mb-5.bgr_7(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")
       .row(titulo="Resolución 3651 del 13 de noviembre de 2014").p-0
         .col-md-12.mb-4.mb-md-0
-          p <strong>Por medio de la cual se establecen los requisitos para la certificación de granjas avícolas bioseguras de postura y/o levante y se dictan otras disposiciones</strong>
+          p Por medio de la cual se establecen los requisitos para la certificación de granjas avícolas bioseguras de postura y/o levante y se dictan otras disposiciones
           p Esta resolución se establece teniendo en cuenta la regulación y control sanitario de la actividad avícola y estipula primordialmente los requisitos para el certificado de granjas avícolas bioseguras de postura y/o levante como a su vez, los requisitos especiales de infraestructura para las áreas de clasificación, almacenamiento, empaque, embalaje y despacho de huevos para consumo humano en granja avícola de postura. De igual manera, define las estrategias para la prevención, control y erradicación de enfermedades de control oficial que afecten a las aves como Newcastle, Influenza aviar, Marek, entre otras. Por otro lado, dispone la reglamentación para la distribución de aves de postura en proyectos productivos sociales. (Resolución 3651 del 13 de noviembre de 2014).
       .row(titulo="Norma NTC-1240").p-0
         .col-md-12.mb-4.mb-md-0
@@ -42,6 +42,10 @@
           p Esta norma tiene por objeto establecer los requisitos mínimos de los rótulos o etiquetas de los envases o empaques en los que se expenden los productos alimenticios, incluidos los de hostelería y para consumo humano. 
           p En esta se decretan los requisitos que deben cumplir en general los productos alimenticios para su envasado y rotulado de tal forma en que no se alterare la inocuidad de los alimentos, además referencia sobre la información que debe estar contenida dentro de la etiqueta donde destacan principalmente el nombre del alimento, lista de ingredientes, contenido neto, nombre y dirección del fabricante, país de origen, identificación del lote, fecha de vencimiento e instrucciones de uso.
       .row(titulo="Resolución 5109 de 2005").p-0
+        .col-md-12.mb-4.mb-md-0
+          p Esta resolución establece el reglamento técnico sobre los requisitos de rotulado o etiquetado que deben cumplir los alimentos envasados o empacados y las materias primas de alimentos para consumo humano. Se realizó para garantizar la protección de la salud, la calidad de vida y, sobre todo, para aportar a la entrega de una información clara e idónea a los consumidores. 
+          p Las disposiciones de esta resolución aplican a los rótulos o etiquetas con los que se comercialicen alimentos empacados o envasados para consumo humano, así como también para los de las materias primas para alimentos ya sean nacionales o importados y que se comercialicen en el territorio nacional.
+      .row(titulo="Resolución 719 de 2015 ").p-0
         .col-md-12.mb-4.mb-md-0
           p <strong>Por la cual se establece la clasificación de alimentos para consumo humano de acuerdo con el riesgo en salud pública.</strong>
           p Frente a lo anterior, estos pueden ser clasificados como: alimento de mayor, riesgo medio y menor riesgo en salud pública. Según el anexo fundamental, que hace parte de esta resolución, el huevo es clasificado como un Alimento de mayor riesgo en salud pública.  

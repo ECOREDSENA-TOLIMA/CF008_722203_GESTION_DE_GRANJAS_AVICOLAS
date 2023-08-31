@@ -36,12 +36,12 @@
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2#t_1_1 6.4 Modelos de bandejas para acopio de huevos
 
-    p Los envases, empaques o recipientes para los huevos, (bandejas), deberán ser nuevos, fabricados con materiales apropiados para entrar en contacto con el producto y cumplir con las reglamentaciones establecidas por la autoridad competente. Con el fin de no generar riesgo para la contaminación del producto, antes de usarlos, se deben revisar para confirmar que estén en buen estado y limpios. 
+    p Los envases, empaques o recipientes para los huevos (bandejas), deberán ser nuevos, fabricados con materiales apropiados para entrar en contacto con el producto y cumplir con las reglamentaciones establecidas por la autoridad competente. Con el fin de no generar contaminación al producto, antes de usarlos, se deben revisar para confirmar que estén en buen estado y limpios.
     p En el mercado, se encuentran dos tipos de bandejas: 
     ul.lista-ul
       li 
         i.lista-ul__vineta
-        | Bandeja desechable. elaborada para usarse sólo una vez en el empaque de huevos, con compartimentos interiores que facilitan la colocación de los huevos en forma vertical.
+        | Bandeja desechable: elaborada para usarse sólo una vez en el empaque de huevos, con compartimentos interiores que facilitan la colocación de los huevos en forma vertical.
       li 
         i.lista-ul__vineta
         | Bandeja plástica: elaborada en material sintético, se utiliza para el empaque y transporte de los huevos al interior de la granja. Para su reutilización, se deberán realizar procesos de limpieza y desinfección y no deberán utilizarse para venta directa al público.

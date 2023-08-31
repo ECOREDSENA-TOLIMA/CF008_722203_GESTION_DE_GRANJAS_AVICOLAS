@@ -77,7 +77,23 @@
       .titulo-sexto.color-primario(data-aos="fade-right")
         h5 Figura 4.
         span <em>Recolección de huevo automática</em>
-      img.d-md-block(src="@/assets/curso/temas/tema4/img-70.svg" data-aos="fade-left")
+      PasosA.color-acento-contenido.mb-5(tipo="n")
+        .row
+          .col-lg
+            h3 Recolección automática
+            p.my-5(style="position:relative") Son sistemas que utilizan una bandeja automática (que tiene un sistema mecánico movido por energía) el cual recoge el huevo que ha rodado al frente de la jaula, y lo movilizan hasta un punto de acopio para su identificación, clasificación y empaque. Se debe revisar constantemente su buen funcionamiento y realizar un mantenimiento periódico.
+
+          .col-auto
+            figure(data-aos="zoom-in")
+              img(src='@/assets/curso/temas/tema4/imagen-1.png', alt='').img125
+            
+        .row
+          .col-auto
+            figure(data-aos="zoom-in")
+              img(src='@/assets/curso/temas/tema4/imagen-2.png', alt='').img125
+          .col-lg.align-start
+            h3 Recolección manual 
+            p.my-3(style="position:relative") Es el sistema donde los operarios de la granja hacen la recolección del huevo de la rejilla (en el sistema de jaula) o de los cubículos de postura (en los sistemas de piso, también llamados nidales). 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2#t_1_1 4.2 Tipos de equipos y utensilios
@@ -94,7 +110,7 @@
             h4 Cinta recolectora automática
             p Este proceso es completamente automático y se realiza a través de una cinta que transporta a los huevos hacia las norias, para su posterior deceso a una bandeja que tiene como función trasladarlos hasta el centro de recolección.
 
-          .col-md-6
+          .col-md-5.px-3
             figure
               img(src='@/assets/curso/temas/tema4/img-71.png', alt='Texto que describa la imagen')
 
@@ -115,7 +131,7 @@
                 i.lista-ul__vineta
                 |  También es importante reportar los datos de cada recogida en el registro de producción de huevos diario que será suministrado por el administrador.
 
-          .col-md-6
+          .col-md-5.px-3
             figure
               img(src='@/assets/curso/temas/tema4/img-72.png', alt='Texto que describa la imagen')
 
@@ -124,7 +140,7 @@
             h4 Clasificar el huevo
             p Clasificar y limpiar el huevo sucio (con sangre, heces de aves, residuos de yema), este procedimiento se realiza con un trapo limpio destinado únicamente para tal fin. 
 
-          .col-md-6
+          .col-md-5.px-3
             figure
               img(src='@/assets/curso/temas/tema4/img-73.png', alt='Texto que describa la imagen')
 

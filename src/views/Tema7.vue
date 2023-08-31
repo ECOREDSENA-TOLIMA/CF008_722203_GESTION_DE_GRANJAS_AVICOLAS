@@ -90,7 +90,7 @@
         //- LineaTiempoD debe ir acompañado de una de una de estas clases => 
         //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
         LineaTiempoD.color-primario
-          .row(numero="1" titulo="")
+          .row(numero="1" titulo="La yema de un huevo recién...")
             .col-md-12.mb-4.mb-md-0
               p.text-small La yema de un huevo recién puesto es redonda y firme, pero a medida que el huevo va envejeciendo, la yema absorbe el agua de la clara y su tamaño se incrementa. 
 
@@ -183,47 +183,49 @@
 
     PasosA.color-acento-contenido.mb-5(tipo="n")
       .row
-        .col-md-6.mb-4.mb-md-0
+        .col-lg
           h3 Uno
-          p Utilizar una solución de detergente e higienizarte que sean a base de compuestos de yodo, amonio cuaternario en una proporción de 250 partes por millón (ppm) o hipoclorito en una proporción de 5 ml por cada litro de agua. Vale la pena aclarar que el tiempo de lavado no puede sobrepasar los tres minutos y que la solución deberá cambiarse cada 3 o 4 tandas de lavado.
-        .col-md-6
-          figure
-            img(src='@/assets/curso/temas/tema7/img-92.svg', alt='Texto que describa la imagen' style="max-width: 100px")
+          p.my-5(style="position:relative") Utilizar una solución de detergente e higienizarte que sean a base de compuestos de yodo, amonio cuaternario en una proporción de 250 partes por millón (ppm) o hipoclorito en una proporción de 5 ml por cada litro de agua. Vale la pena aclarar que el tiempo de lavado no puede sobrepasar los tres minutos y que la solución deberá cambiarse cada 3 o 4 tandas de lavado.
+        
+        .col-auto
+          figure(data-aos="zoom-in")
+            img(src='@/assets/curso/temas/tema7/img-92.svg', alt='').img125
 
       .row
-        .col-md-6.mb-4.mb-md-0
-          figure
-            img(src='@/assets/curso/temas/tema7/img-93.svg', alt='Texto que describa la imagen' style="max-width: 180px")
-        .col-md-6
+        .col-auto
+          figure(data-aos="zoom-in")
+            img(src='@/assets/curso/temas/tema7/img-93.svg', alt='').img125
+        
+        .col-lg
           h3 Dos
-          p La dureza del agua debe ser adecuada, desde el punto de vista bacteriológico y químico; sobre todo, se ha de prestar atención a la concentración de hierro, ya que ésta nunca debe exceder de 5 pm. 
+          p.my-5(style="position:relative") La dureza del agua debe ser adecuada, desde el punto de vista bacteriológico y químico; sobre todo, se ha de prestar atención a la concentración de hierro, ya que ésta nunca debe exceder de 5 pm. 
 
       .row
-        .col-md-6.mb-4.mb-md-0
+        .col-lg
           h3 Tres
-          p La realización del lavado aumenta los costos del huevo e incrementa el riesgo de dañar el huevo. 
+          p.my-5(style="position:relative") La realización del lavado aumenta los costos del huevo e incrementa el riesgo de dañar el huevo. 
 
-        .col-md-6
-          figure
-            img(src='@/assets/curso/temas/tema7/img-94.svg', alt='Texto que describa la imagen' style="max-width: 200px")
+        .col-auto
+          figure(data-aos="zoom-in")
+            img(src='@/assets/curso/temas/tema7/img-94.svg', alt='').img125
 
     p Utilizar una solución de detergente e higienizarte que sean a base de compuestos de yodo, amonio cuaternario en una proporción de 250 partes por millón (ppm) o hipoclorito en una proporción de 5 ml por cada litro de agua. Vale la pena aclarar que el tiempo de lavado no puede sobrepasar los tres minutos y que la solución deberá cambiarse cada 3 o 4 tandas de lavado.
     p.mb-5 El lavado se divide en cuatro fases: prelavado, lavado, desinfección y secado. 
 
     .row.mb-5
-      .col-lg-12
+      .col-lg-6
         .cajon.color-primario.p-4.mb-4
           p <strong>Prelavado:</strong> se retira la suciedad (heces de aves, sangre, restos de yemas, entre otros) con una esponjilla o cepillo en seco y suavemente para evitar daños en la cáscara.
 
-      .col-lg-12
-        .cajon.color-acento-contenido.p-4.mb-4
+      .col-lg-6 
+        .cajon.color-acento-contenido.cuadro-color.p-4.mb-4
           p <strong>Lavado:</strong> se realiza con surfactante y detergente, la eficacia de esto es fundamental no solo para eliminar la suciedad, sino para la recuperación de los huevos.  también puede ayudar a eliminar las bacterias.
 
-      .col-lg-12
+      .col-lg-6
         .cajon.color-acento-botones.p-4.mb-4
           p <strong>Desinfección:</strong> elegir un desinfectante adecuado junto con un buen procesamiento limpio, ayudan a mantener el estatus higiénico de los huevos.
 
-      .col-lg-12
+      .col-lg-6
         .cajon.color-secundario.p-4.mb-4
           p <strong>Secado:</strong> este se realiza directamente con aire (natural o artificial) y no debe tardar más de 30 segundos.
 
@@ -237,7 +239,7 @@
         //- LineaTiempoD debe ir acompañado de una de una de estas clases => 
         //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
         LineaTiempoD.color-primario
-          .row(numero="1" titulo="Huevo entero")
+          .row(numero="1" titulo="Este procedimiento se hace...")
             .col-md-12.mb-4.mb-md-0
               p.text-small Este procedimiento se hace en circunstancias de estricto control de dos factores importantes la temperatura del huevo y el agua controlando su PH, calidad y temperatura, con el fin de prevenir condiciones que contaminen el huevo a partir de la ruptura de la cáscara. 
                 

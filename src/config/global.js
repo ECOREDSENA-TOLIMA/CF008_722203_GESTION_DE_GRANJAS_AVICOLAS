@@ -246,7 +246,7 @@ export default {
       referencia:
         'Organización Panamericana de la Salud. Buenas Prácticas Agropecuarias (BPA) y De Manufactura (BPM).',
       tipo: 'Documento de apoyo',
-      descarga:
+      link:
         'https://www.paho.org/es/documentos/buenas-practicas-agropecuarias-bpa-manufactura-bpm',
     },
     {
@@ -254,34 +254,34 @@ export default {
       referencia:
         'Buenas Prácticas de Manufactura en la Industria Alimentaria. Marthiis Rodríguez 18/04/2020',
       tipo: 'Video',
-      descarga: 'https://youtu.be/kktStLNE41I',
+      link: 'https://youtu.be/kktStLNE41I',
     },
     {
       tema: '2. Buenas prácticas',
       referencia:
         'Organización de las Naciones Unidas para la Alimentación y la Agricultura, Organización Panamericana de la Salud, Organización Mundial de la Salud. (2016). Manual para manipuladores de alimentos.',
       tipo: 'Manual',
-      descarga: 'http://www.fao.org/3/i5896s/i5896s.pdf',
+      link: 'http://www.fao.org/3/i5896s/i5896s.pdf',
     },
     {
       tema: '2. Buenas prácticas',
       referencia:
         'Sistema de recolección de huevos. CIA DIPEQ 02/11/2018 [Vídeo]',
       tipo: 'Video',
-      descarga: 'https://youtu.be/vi2tB6A7_CM',
+      link: 'https://youtu.be/vi2tB6A7_CM',
     },
     {
       tema: '2. Buenas prácticas',
       referencia:
         'Buenas Prácticas de Manufacturas | BPM-GMP. Facility Service 11/02/2019. [Vídeo]',
       tipo: 'Video',
-      descarga: 'https://youtu.be/LfI8-k295XM',
+      link: 'https://youtu.be/LfI8-k295XM',
     },
     {
       tema: '4. Equipos y utensilios y POES',
       referencia: 'Big Dutchman. Sistema de recolección de huevos 12/2008',
       tipo: 'Catálogo',
-      descarga:
+      link:
         'https://www.interempresas.net/FeriaVirtual/Catalogos_y_documentos/6611/Egg_collection_systems.pdf',
     },
   ],
@@ -511,40 +511,42 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Ángela Rocío Sánchez Ruiz',
-          cargo: 'Experto Temático',
-          centro: 'Centro de Electricidad, Electrónica y Telecomunicaciones',
+          nombre: 'Paola Mercedes Orduz Gómez',
+          cargo: 'Experta Temática',
+          centro:
+            'Regional Santander - Centro de Atención al Sector Agropecuario',
         },
         {
-          nombre: 'Miroslava González H.',
-          cargo: 'Diseñador y Evaluador Instruccional',
-          centro: 'Centro de Gestión Industrial',
+          nombre: 'Giovanna Andrea Escobar Ospina',
+          cargo: 'Diseñadora Instruccional',
+          centro:
+            'Regional Norte de Santander - Centro de la Industria, la Empresa y los Servicios (CIES)',
         },
         {
-          nombre: 'Juan Gilberto Giraldo Cortés',
-          cargo: 'Diseñador Instruccional',
-          centro: 'Centro de Gestión Industrial',
+          nombre: 'Andrés Felipe Velandia Espitia',
+          cargo: 'Asesor Metodológico',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
-          nombre: 'Álix Cecilia Chinchilla Rueda',
-          cargo: 'Evaluadora Instruccional',
-          centro: 'Centro de Gestión Industrial',
-        },
-        {
-          nombre: 'Viviana Esperanza Herrera Quiñones',
-          cargo: 'Asesora Metodológica',
-          centro: 'Centro de Comercio y Servicios',
-        },
-        {
-          nombre: 'Rafael Neftalí Lizcano',
-          cargo: 'Asesor Pedagógico',
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Responsable Equipo Desarrollo Curricular',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
           nombre: 'Darío González',
-          cargo: 'Revisión y Corrección de Estilo',
-          centro: 'Regional Tolima - Centro Agropecuario La Granja',
+          cargo: 'Corrector de Estilo',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Juan Gilberto Giraldo Cortés',
+          cargo: 'Diseñador instruccional',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Viviana Herrera Quiñonez',
+          cargo: 'Metodóloga',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
     },
@@ -552,7 +554,7 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'José Jaime Luis Tang',
+          nombre: 'Aruzidna Sánchez Alonso',
           cargo: 'Diseñador Web',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
@@ -568,11 +570,16 @@ export default {
         },
         {
           nombre: 'Nelson Iván Vera Briceño',
-          cargo: 'Animador y Producción Audiovisual',
+          cargo: 'Producción Audiovisual',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Sebastián Trujillo Afanador',
+          nombre: 'Oleg Litvin',
+          cargo: 'Animador',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Francisco José Vásquez Suárez',
           cargo: 'Actividad Didáctica',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
