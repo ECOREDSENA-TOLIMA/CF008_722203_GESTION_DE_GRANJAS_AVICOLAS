@@ -10,7 +10,7 @@
     p.mb-5 Los parámetros técnicos son de gran importancia en cualquier explotación pecuaria ya que estos facilitan la producción eficiente, de calidad, inocua y rentable. De igual manera, permiten la toma de decisiones basadas en información (registros) confiable y oportuna. Además, estos parámetros, proporcionan una base de datos del comportamiento productivo como la cantidad de huevos producidos (por ave y en total), porcentaje de producción, conversión alimenticia, porcentaje de mortalidad, entre otros.
     
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 7.1 Objetivo
+      h2#t_1_1 7.1 Procedimientos de manejo
 
     p.mb-5 Para el manejo de los huevos se debe tener en cuenta las labores desarrolladas por actividad diariamente y enlistarlas, de modo que se haga de forma metódica y eficiente; en este caso se tendrán en cuenta dos actividades que competen para el manejo del huevo dentro de la granja.
 
@@ -231,9 +231,7 @@
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2#t_1_1 Lavado, secado y desinfección del huevo
-
-    p.mb-5 Este procedimiento se hace en circunstancias de  estricto control de dos factores  importantes la temperatura del huevo y el agua controlando su PH, calidad y temperatura,  con el fin de prevenir condiciones que contaminen el huevo a partir de la ruptura de la cáscara. 
-
+  
     .row.mb-5
       .col-md-7
         //- LineaTiempoD debe ir acompañado de una de una de estas clases => 

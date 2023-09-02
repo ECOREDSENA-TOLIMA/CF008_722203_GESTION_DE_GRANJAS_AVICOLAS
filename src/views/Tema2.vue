@@ -37,6 +37,35 @@
       h2#t_1_1 Diseño y construcción de las granjas de las plantas de incubación 
 
     p.mb-5 Las instalaciones deben permitir la fácil limpieza y desinfección, contar con protección en general contra animales que no pertenecen a la producción y que son considerada plagas como insectos, roedores y otras aves, además de otras condiciones como:
+    
+    .tarjeta.tarjeta.color-acento-botones10.p-4.mb-5
+      SlyderA(tipo="b")
+        .row
+          .col-md-6.mb-4.mb-md-0
+            h4 En relación a los galpones
+            p Debe haber andenes perimetrales, estar separados los galpones de otras estructuras como unidades sanitarias, oficinas, vistieres, etc. Además, los galpones deben ofrecer las condiciones idóneas de temperatura, humedad, iluminación, así como la medición de las mismas. 
+
+          .col-md-5.px-3
+            figure
+              img(src='@/assets/curso/temas/tema2/imagen_1.png', alt='Texto que describa la imagen')
+
+        .row
+          .col-md-6.mb-4.mb-md-0
+            h4 En relación a la construcción
+            p Otro aspecto importante es las distancias entre galpones, los materiales con que se construyen de acuerdo a la disponibilidad de materiales y costos, las dimensiones que deben ajustarse al número de animales, la disposición para uso de la cama y manejo de la misma, en las bodegas de almacenamiento para huevos deben ser de materiales de fácil limpieza y desinfección. 
+
+          .col-md-5.px-3
+            figure
+              img(src='@/assets/curso/temas/tema2/imagen_2.png', alt='Texto que describa la imagen')
+
+        .row
+          .col-md-6.mb-4.mb-md-0
+            h4 En relación a las plantas de incubación
+            p Por otra parte, en las plantas de incubación las especificaciones son más estrictas en cuanto a materiales de superficie lisa, no absorbente, deben ser resistentes y de suficiente amplitud, que permitan la constante limpieza y desinfección, además de que no permitan la acumulación de suciedad, hongos, plagas u otros contaminantes.
+
+          .col-md-5.px-3
+            figure
+              img(src='@/assets/curso/temas/tema2/imagen_3.png', alt='Texto que describa la imagen')
 
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-primario(data-aos="fade-right")
@@ -147,7 +176,7 @@
         p Materiales que se encuentran disponibles dentro de los complementarios.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 Buenas prácticas de manufactura
+      h2#t_1_1 2.2 Buenas prácticas de manufactura
 
     p Las Buenas Prácticas de Manufactura BPM son los requisitos en general de higiene en la manipulación, preparación, elaboración, envasado, almacenamiento, transporte y distribución de alimentos para consumo humano, cuyo fin es garantizar que los productos en las cada uno de estos procesos cumplan adecuadamente con las condiciones sanitarias para disminuir los riesgos relacionados a la producción.
     p El Instituto Nacional de Vigilancia de Medicamentos y Alimentos - INVIMA es una de las autoridades sanitarias encargadas de vigilar las BPM y emitir conceptos sanitarios al igual que los entes territoriales de salud, mientras instituciones como el SENA están encargados de capacitar y certificar a quienes se instruyen en esta temática. Sin embargo, es el mismo INVIMA quien emite el certificado de BPM a las empresas como tal.
@@ -251,17 +280,6 @@
             figure
               img(src='@/assets/curso/temas/tema2/img-30.png', alt='Texto que describa la imagen')
 
-        .row
-          .col-md-6.mb-4.mb-md-0
-            h4 Para concluir
-            p En conclusión, la implementación de las BPM se debe hacer de una manera responsable y organizada que permita su cumplimiento, esto brindará beneficios en el proceso productivo y en la calidad del producto final garantizando la calidad e inocuidad del huevo.
-
-          .col-md-5.px-3
-            figure
-              img(src='@/assets/curso/temas/tema2/img-31.png', alt='Texto que describa la imagen')
-
-    p.mb-5 En conclusión, la implementación de las BPM se debe hacer de una manera responsable y organizada que permita su cumplimiento, esto brindará beneficios en el proceso productivo y en la calidad del producto final garantizando la calidad e inocuidad del huevo.
-
     .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img-32.png')})`}"
@@ -271,7 +289,7 @@
         p.mb-0 Materiales que se encuentran disponibles dentro de los complementarios.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 2.2 Buenas prácticas de higiene personal
+      h2#t_1_1 2.3 Buenas prácticas de higiene personal
 
     p Las personas que trabajan en la manipulación de alimentos se consideran con un alto factor de riesgo, ya que son fuentes altamente contaminantes; en especial aquellas que laboran en granjas, en procesos de cultivo, cosecha empaque y almacenamiento, ya que sus actividades son fundamentales para asegurar la inocuidad de los productos agropecuarios.
     p Como todo animal, el ser humano alberga gérmenes en varias partes de su cuerpo, las cuales, sino se tiene el cuidado suficiente puede transferir a superficies, utensilios y alimentos contaminándolos y por consiguiente provocando enfermedad. En varios reportes de enfermedades transmitidas por alimentos ETAS se relaciona la contaminación de los alimentos por la mala higiene y/o mala salud de los trabajadores vinculados con el producto. Es por eso que se debe prestar especial atención a partes como: la piel, la nariz, la boca, las manos y el pelo, y enfatizar en lo importan de adoptar prácticas como el lavado de manos en todas las fases de producción y en especial a las de recolección y empaquetamiento.
@@ -393,7 +411,7 @@
               | Las zonas establecidas para el lavado y secado de ropa y vestuario de los colaboradores, deben estar ubicadas fuera de la zona de elaboración.
             li  
               i.lista-ul__vineta
-              | Si no se tienen vestuarios independientes, debe existir un locker para guardar y separar la ropa de trabajo y la ropa de calle.
+              | Si no se tienen vestuarios independientes, debe existir un <em>locker</em> para guardar y separar la ropa de trabajo y la ropa de calle.
       .row(titulo="Uso de joyas").p-0
         .col-md-12.mb-4.mb-md-0
           p No se deben usar joyas de ningún tipo, adornos, pinzas o ganchos para el cabello, lápices, lapiceros, alfileres, sujetadores, termómetros, lentes, herramientas, objetos de bolsillo, celulares u otros elementos de ese tipo durante la manipulación de alimentos, ya que pueden causar contaminación en el proceso.
@@ -418,7 +436,7 @@
         p.mb-0 Para conocer más acerca de las buenas prácticas de higiene personal se le sugiere al aprendiz consultar el “Manual para Manipuladores de Alimentos” y “Buenas Prácticas Higiénicas” que se encuentran disponibles dentro del material complementario.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-down")
-      h2#t_1_1 2.3 Procedimientos higienización 
+      h2#t_1_1 2.4 Procedimientos higienización 
 
     p(data-aos="fade-down") La higienización es un proceso que tiene como fin limpiar y desinfectar el equipo, superficies de trabajo e instalaciones para evitar su deterioro y la contaminación alimenticia por presencia de factores físicos, químicos y biológicos (Soluciones Gastronómicas, 2020). En los diversos centros de trabajo en los que se realizan auditorías de HACCAP (comedores escolares, residencias de mayores, empresas de alimentación) se suele llevar a cabo un plan de limpieza que se ejecute de manera periódica y en el que se señale los métodos de limpieza, productos y personas encargadas. (Alonso, 2019).
     p.mb-5(data-aos="fade-down") Aunque higienización, limpieza y desinfección puedan parecer palabras casi sinónimas, cada una de ellas hace referencia a un proceso distinto.
@@ -450,7 +468,7 @@
           li(style="color: #000")  
             i.lista-ul__vineta(style="color: #000")
             | Humectantes: reaccionan con la superficie de la suciedad, facilitando la acción de otros productos y su retirada. En esta categoría estarían los aniónicos (jabones).
-        p(style="color: #000") Los detergente suele estar formado por una combinación de las anteriores.	 
+        p(style="color: #000") Los detergentes suelen estar formados por una combinación de los anteriores.	 
       .col-md.tarjeta.color-primario.p-5
         .row.justify-content-center.mb-4
           .col-6
@@ -473,6 +491,9 @@
     p.mb-5 Como se ha visto anteriormente, la indumentaria para esta etapa está basada en cumplir con las normas de bioseguridad y la de riesgos laborales, se recomienda el uso de gorro o cofia, tapabocas, ropa clara se sugiere que sea antifluido, uso de guantes de nitrilo o látex, calzado antideslizante, cerrado y de color claro, que permita la fácil limpieza y desinfección, o en su defecto botas de caña alta en caucho. 
 
     .col-xl-10.mx-auto.mb-5
+      .titulo-sexto.color-primario(data-aos="fade-right")
+        h5 Figura 3.
+        span <em>Características y condiciones de la dotación</em>
       img.d-md-block.mb-5(src="@/assets/curso/temas/tema2/img-35.svg" data-aos="fade-down")
       figcaption Nota. El cumplimiento de las buenas prácticas de higiene en la preparación de productos. QuimiNet (2012.
 

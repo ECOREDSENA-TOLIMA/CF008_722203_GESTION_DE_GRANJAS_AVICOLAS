@@ -167,7 +167,11 @@
       h2#t_1_1 3.3 Protocolos aplicados al proceso productivo
 
     p Una vez alojadas las aves, se les debe garantizar las mejores condiciones (alimento, agua, condiciones ambientales, cómodos nidales) para que inicien su etapa productora de huevos. A partir del momento de inicio de la producción, el personal capacitado, realiza la recolección constante de los huevos para ser trasladados a la bodega de almacenamiento, clasificación y empaque, lo que garantiza que salgan de buena calidad al mercado para consumo y, sobre todo, que sean frescos. 
-    p.mb-5 Para la recepción de las pollitas se debe tener presente la siguiente información: 
+    p Para la recepción de las pollitas se debe tener presente la siguiente información: 
+    ul.lista-ul.mb-5
+      li 
+        i.lista-ul__vineta
+        | <strong>Recepción.</strong> En el desarrollo del proceso productivo con gallinas ponedoras existen varias etapas como: cría de pollitas (desde el primer día, hasta la semana 8), desarrollo (a partir del primer día de la semana 9, hasta la semana 18) y producción (Primer día de la semana 19, hasta semana 80). Generalmente, las grandes empresas avícolas implementan un sistema de producción cerrado, en donde se trabajan todas las etapas, razón por la cual se ampliará el proceso de recepción de pollitas. Se debe tener en cuenta los siguientes pasos:
 
     .tarjeta.tarjeta.color-acento-contenido2.p-4.mb-5
       SlyderA(tipo="b")

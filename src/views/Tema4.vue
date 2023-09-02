@@ -211,8 +211,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img-19.png')})`}"
       )
       .bloque-texto-g__texto.p-4(data-aos="fade-left")
-        p.mb-0 Para conocer más acerca de los procedimientos de recolección del huevo se recomienda al aprendiz ver el material audiovisual “Sistema de recolección de huevos” y el documento “Sistemas de recolección de huevos” disponible en el material complementario.
-
+        p.mb-0 Los procedimientos estandarizados POE tienen actividades las cuales se pueden verificar a través de los formatos destinados para tal fin. Estos formatos son sencillos y debe registrarse la información generada en el momento que se realicen las actividades relacionadas, en los que como mínimo se debe contener el nombre de la empresa, de la granja, del formato, del responsable, fecha de diligenciamiento y observaciones.
 
 
 
