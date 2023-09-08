@@ -10,7 +10,7 @@
     p.mb-5 De acuerdo con la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO), una buena práctica es una experiencia positiva, probada y replicada en contextos diversos y que, por consiguiente, puede ser recomendada como modelo. Por esto, merece ser compartida para que el mayor número de personas pueda adaptarla y adoptarla. En ese orden de ideas, en la industria avícola existen varios tipos de buenas prácticas que se implementan dentro del proceso productivo: buenas prácticas de bioseguridad, avícolas, de manufactura y todas ellas dirigidas al cumplimiento e implementación del sistema HACCAP. (FAO, 2021). A continuación, se explican las más importantes. 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 2.1 Las buenas prácticas de bioseguridad en granjas de reproducción aviar y plantas de incubación
+      h2#t_2_1 2.1 Las buenas prácticas de bioseguridad en granjas de reproducción aviar y plantas de incubación
 
     p Dentro de la cadena completa de producción aviar deben estar aplicados los principios y prácticas generales de bioseguridad en el sistema de granjas de abuelas, reproductoras y comerciales; y las plantas de incubación y plantas de beneficio para el procesamiento de las aves. Además, estas deben ofrecer una capacitación permanente a todo el equipo de trabajo, haciéndolos más eficientes y productivos.
     p.mb-5 Estas prácticas abarcan la infraestructura, el personal operativo, los equipos y utensilios, materias primas e insumos que intervengan en las diferentes granjas, así como la producción, procesamiento, embalaje, almacenamiento, transporte, distribución y comercialización en el territorio nacional.
@@ -176,7 +176,7 @@
         p Materiales que se encuentran disponibles dentro de los complementarios.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 2.2 Buenas prácticas de manufactura
+      h2#t_2_2 2.2 Buenas prácticas de manufactura
 
     p Las Buenas Prácticas de Manufactura BPM son los requisitos en general de higiene en la manipulación, preparación, elaboración, envasado, almacenamiento, transporte y distribución de alimentos para consumo humano, cuyo fin es garantizar que los productos en las cada uno de estos procesos cumplan adecuadamente con las condiciones sanitarias para disminuir los riesgos relacionados a la producción.
     p El Instituto Nacional de Vigilancia de Medicamentos y Alimentos - INVIMA es una de las autoridades sanitarias encargadas de vigilar las BPM y emitir conceptos sanitarios al igual que los entes territoriales de salud, mientras instituciones como el SENA están encargados de capacitar y certificar a quienes se instruyen en esta temática. Sin embargo, es el mismo INVIMA quien emite el certificado de BPM a las empresas como tal.
@@ -289,7 +289,7 @@
         p.mb-0 Materiales que se encuentran disponibles dentro de los complementarios.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 2.3 Buenas prácticas de higiene personal
+      h2#t_2_3 2.3 Buenas prácticas de higiene personal
 
     p Las personas que trabajan en la manipulación de alimentos se consideran con un alto factor de riesgo, ya que son fuentes altamente contaminantes; en especial aquellas que laboran en granjas, en procesos de cultivo, cosecha empaque y almacenamiento, ya que sus actividades son fundamentales para asegurar la inocuidad de los productos agropecuarios.
     p Como todo animal, el ser humano alberga gérmenes en varias partes de su cuerpo, las cuales, sino se tiene el cuidado suficiente puede transferir a superficies, utensilios y alimentos contaminándolos y por consiguiente provocando enfermedad. En varios reportes de enfermedades transmitidas por alimentos ETAS se relaciona la contaminación de los alimentos por la mala higiene y/o mala salud de los trabajadores vinculados con el producto. Es por eso que se debe prestar especial atención a partes como: la piel, la nariz, la boca, las manos y el pelo, y enfatizar en lo importan de adoptar prácticas como el lavado de manos en todas las fases de producción y en especial a las de recolección y empaquetamiento.
@@ -436,7 +436,7 @@
         p.mb-0 Para conocer más acerca de las buenas prácticas de higiene personal se le sugiere al aprendiz consultar el “Manual para Manipuladores de Alimentos” y “Buenas Prácticas Higiénicas” que se encuentran disponibles dentro del material complementario.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-down")
-      h2#t_1_1 2.4 Procedimientos higienización 
+      h2#t_2_4 2.4 Procedimientos higienización 
 
     p(data-aos="fade-down") La higienización es un proceso que tiene como fin limpiar y desinfectar el equipo, superficies de trabajo e instalaciones para evitar su deterioro y la contaminación alimenticia por presencia de factores físicos, químicos y biológicos (Soluciones Gastronómicas, 2020). En los diversos centros de trabajo en los que se realizan auditorías de HACCAP (comedores escolares, residencias de mayores, empresas de alimentación) se suele llevar a cabo un plan de limpieza que se ejecute de manera periódica y en el que se señale los métodos de limpieza, productos y personas encargadas. (Alonso, 2019).
     p.mb-5(data-aos="fade-down") Aunque higienización, limpieza y desinfección puedan parecer palabras casi sinónimas, cada una de ellas hace referencia a un proceso distinto.
@@ -486,7 +486,7 @@
             | Sales de amonio: tienen una gran eficacia frente a las bacterias, no son tóxicos ni irritantes y controlan los olores.
     
     .titulo-segundo.color-acento-contenido(data-aos="fade-down")
-      h2#t_1_1 2.5 Dotación
+      h2#t_2_5 2.5 Dotación
 
     p.mb-5 Como se ha visto anteriormente, la indumentaria para esta etapa está basada en cumplir con las normas de bioseguridad y la de riesgos laborales, se recomienda el uso de gorro o cofia, tapabocas, ropa clara se sugiere que sea antifluido, uso de guantes de nitrilo o látex, calzado antideslizante, cerrado y de color claro, que permita la fácil limpieza y desinfección, o en su defecto botas de caña alta en caucho. 
 

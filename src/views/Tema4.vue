@@ -69,7 +69,7 @@
         p.text-center Los huevos huecos o con cáscara blanda, se deben eliminar en recipientes dispuestos para tal fin.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 4.1 Características técnicas
+      h2#t_4_1 4.1 Características técnicas
 
     p.mb-5 En las granjas avícolas que tienen gallina de postura, es necesario estudiar, implementar y conocer qué mecanismos se van a utilizar para recoger los huevos que ponen las gallinas, pues allí se involucran factores económicos, geográficos y técnicos. Pueden existir dos mecanismos principales encargados de recolectar los huevos de gallina. Estos son:
 
@@ -96,7 +96,7 @@
             p.my-3(style="position:relative") Es el sistema donde los operarios de la granja hacen la recolección del huevo de la rejilla (en el sistema de jaula) o de los cubículos de postura (en los sistemas de piso, también llamados nidales). 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 4.2 Tipos de equipos y utensilios
+      h2#t_4_2 4.2 Tipos de equipos y utensilios
 
     p Los tipos de equipos utilizados en el proceso de recolección varía de acuerdo con el sistema productivo de los galpones. En este orden de ideas se tiene que:
     p En los galpones donde se realiza la recolección de manera manual, las bandejas de cartón o plástico son las herramientas utilizadas para recoger los huevos. No se debe exceder a más de seis las bandejas apiladas para el transporte, además, el transporte debe hacerse en vehículos adecuados cerrados y limpios, adicionalmente, las carreteras deben estar en perfectas condiciones. 
@@ -152,7 +152,7 @@
         p.mb-0 Para conocer más acerca de los procedimientos de recolección del huevo se recomienda al aprendiz ver el material audiovisual “Sistema de recolección de huevos” y el documento “Sistemas de recolección de huevos” disponible en el material complementario.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 4.3 Planes Operativos Estandarizados de Sanitización (POES)
+      h2#t_4_3 4.3 Planes Operativos Estandarizados de Sanitización (POES)
 
     p.mb-5 Los procesos operativos estandarizados son documentos en los cuales se describe la forma en la que se realizan diferentes actividades en la granja avícola, de acuerdo con las resoluciones del ICA N.º 3650, 3651 y 3652 es importante mantener la implementación de las medidas de bioseguridad, lo cual se refleja en el mejoramiento de los resultados zootécnicos, tales como las ganancias de peso y producción de huevo, y la disminución de la mortalidad. Teniendo en cuenta las siguientes recomendaciones:
 

@@ -35,7 +35,7 @@
           p Parte central del huevo, que se encuentra rodeada de la membrana vitelina, su color anaranjado, aunque puede variar en función de la alimentación que se le suministra a las gallinas. Nutricionalmente, es la parte más valiosa del huevo, debido a que concentra la mayor parte de lípidos, minerales y vitaminas.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 5.1 Ciclo de postura
+      h2#t_5_1 5.1 Ciclo de postura
 
     p En las aves de corral el ciclo de postura tiene que ver directamente con la línea genética a la que pertenezca, empero en rasgos generales podría decirse que las gallinas ponedoras se mantienen en producción hasta 75 a 80 las semanas de edad, aunque el periodo real de postura es de solo 55 a 60 semanas como máximo porque estas aves empiezan a poner huevos cerca o durante la semana 20, en este ciclo una gallina puede poner en promedio 360 huevos. 
     p Para que este ciclo sea eficiente y se presente con regularidad es de gran importancia tener en cuenta que la alimentación en ponedoras debe ser de acuerdo con sus requerimientos nutricionales, según la edad en semanas y su ciclo de postura, puesto que desde pequeñas se les debe garantizar un buen crecimiento y desarrollo, lo cual influenciará directamente en la postura de huevos más adelante. 

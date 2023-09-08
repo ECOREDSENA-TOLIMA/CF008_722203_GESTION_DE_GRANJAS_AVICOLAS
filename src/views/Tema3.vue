@@ -10,13 +10,13 @@
     p.mb-5 Para un correcto levantamiento del huevo es importante tener presente las áreas de un sistema productivo como su alistamiento y los protocolos a acatar en las instalaciones de dicho sistema. 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 3.1 Áreas que componen el sistema productivo
+      h2#t_3_1 3.1 Áreas que componen el sistema productivo
 
     p Las áreas que componen el sistema productivo del huevo deben estar alejadas de focos de contaminación, previamente evaluados y valorados, ya que pueden afectar la cadena productiva. De igual manera, es importante tener en cuenta la cantidad de animales que se van a trabajar (grado de confinamiento), y el sistema productivo que se va a implementar dependiendo de si es un sistema productivo tradicional o tecnificado, el tipo de instalaciones empleados para las distintas etapas de producción, o si se va a producir en jaulas, en piso. 
     p.mb-5 Dentro de las áreas más importantes en este sistema productivo, se encuentran: el área administrativa, de producción (casetas de producción, galpones o alojamientos), bodegas de alimentos, de almacenamiento de huevos, de herramientas y medicamentos, entre otras.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 3.2 Proceso de alistamiento de las áreas para proceso productivo
+      h2#t_3_2 3.2 Proceso de alistamiento de las áreas para proceso productivo
 
     p.mb-5 El alistamiento es el conjunto de actividades orientadas a la entrega de un galpón en condiciones sanitarias de infraestructura y equipo, óptimas para la recepción de un lote de aves. Este proceso está dirigido a las áreas productivas, es decir a los galpones que son el centro de las unidades productivas avícolas, por esto se centrará el conocimiento en el alistamiento completo del galpón. 
 
@@ -164,7 +164,7 @@
                   i.fas.fa-file-download
     
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 3.3 Protocolos aplicados al proceso productivo
+      h2#t_3_3 3.3 Protocolos aplicados al proceso productivo
 
     p Una vez alojadas las aves, se les debe garantizar las mejores condiciones (alimento, agua, condiciones ambientales, cómodos nidales) para que inicien su etapa productora de huevos. A partir del momento de inicio de la producción, el personal capacitado, realiza la recolección constante de los huevos para ser trasladados a la bodega de almacenamiento, clasificación y empaque, lo que garantiza que salgan de buena calidad al mercado para consumo y, sobre todo, que sean frescos. 
     p Para la recepción de las pollitas se debe tener presente la siguiente información: 
