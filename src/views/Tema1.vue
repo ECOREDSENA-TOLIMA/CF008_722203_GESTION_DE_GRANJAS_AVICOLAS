@@ -12,7 +12,7 @@
     AcordionA.mb-5.bgr_7(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")
       .row(titulo="Resolución 3651 del 13 de noviembre de 2014").p-0
         .col-md-12.mb-4.mb-md-0
-          p Por medio de la cual se establecen los requisitos para la certificación de granjas avícolas bioseguras de postura y/o levante y se dictan otras disposiciones
+          p Por medio de la cual se establecen los requisitos para la certificación de granjas avícolas bioseguras de postura y/o levante y se dictan otras disposiciones.
           p Esta resolución se establece teniendo en cuenta la regulación y control sanitario de la actividad avícola y estipula primordialmente los requisitos para el certificado de granjas avícolas bioseguras de postura y/o levante como a su vez, los requisitos especiales de infraestructura para las áreas de clasificación, almacenamiento, empaque, embalaje y despacho de huevos para consumo humano en granja avícola de postura. De igual manera, define las estrategias para la prevención, control y erradicación de enfermedades de control oficial que afecten a las aves como Newcastle, Influenza aviar, Marek, entre otras. Por otro lado, dispone la reglamentación para la distribución de aves de postura en proyectos productivos sociales. (Resolución 3651 del 13 de noviembre de 2014).
       .row(titulo="Norma NTC-1240").p-0
         .col-md-12.mb-4.mb-md-0

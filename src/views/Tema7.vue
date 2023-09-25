@@ -9,8 +9,9 @@
 
     p.mb-5 Los parámetros técnicos son de gran importancia en cualquier explotación pecuaria ya que estos facilitan la producción eficiente, de calidad, inocua y rentable. De igual manera, permiten la toma de decisiones basadas en información (registros) confiable y oportuna. Además, estos parámetros, proporcionan una base de datos del comportamiento productivo como la cantidad de huevos producidos (por ave y en total), porcentaje de producción, conversión alimenticia, porcentaje de mortalidad, entre otros.
     
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_7_1 7.1 Procedimientos de manejo
+    Separador
+    #t_7_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 7.1 Procedimientos de manejo
 
     p.mb-5 Para el manejo de los huevos se debe tener en cuenta las labores desarrolladas por actividad diariamente y enlistarlas, de modo que se haga de forma metódica y eficiente; en este caso se tendrán en cuenta dos actividades que competen para el manejo del huevo dentro de la granja.
 
@@ -25,7 +26,7 @@
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema7/img-83.svg' alt='AvatarTop')
-        p.text-center Los nidales deben tener camas cómodas tales como cascarilla de arroz, paja, tamo, etc; para que las aves puedan anidar con comodidad.
+        p.text-center Los nidales deben tener camas cómodas tales como cascarilla de arroz, paja, tamo, etc.; para que las aves puedan anidar con comodidad.
 
       .tarjeta.color-acento-botones7.p-4
         .row.justify-content-center.mb-3
@@ -55,7 +56,7 @@
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema7/img-88.svg' alt='AvatarTop')
-        p.text-center Clasificar según lo esté pidiendo el mercado y limpiar los huevos sucios con un brillo o cepillo retirando toda la suciedad que no pertenezca a la morfología del huevo.
+        p.text-center Clasificar y limpiar el producto, de acuerdo con la solicitud del mercado.
 
       .tarjeta.color-acento-botones9.p-4
         .row.justify-content-center.mb-3
@@ -63,8 +64,9 @@
             img(src='@/assets/curso/temas/tema7/img-89.svg' alt='AvatarTop')
         p.text-center En caso de que se presente una irregularidad en la producción debe reportarse de inmediato al médico veterinario para que se tomen las medidas adecuadas.
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_7_2 7.2 Almacenamiento del huevo 
+    Separador
+    #t_7_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 7.2 Almacenamiento del huevo 
 
     ul.lista-ul.mb-5
       li 
@@ -80,8 +82,9 @@
         i.lista-ul__vineta 
         | La información básica que debe ir consignada en el registro diario es la siguiente: total de huevos diarios recogidos, total de huevos quebrados o fracturados, total huevos extra, huevos no clasificados “Revoltura”, salida de huevos para venta, total de huevos en bodega.
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_7_3 7.3 Condiciones de calidad
+    Separador
+    #t_7_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 7.3 Condiciones de calidad
 
     p.mb-5 La calidad interna se define como el conjunto de propiedades funcionales, estéticas y microbiológicas tanto de la yema como de la clara. Por ello, se deben verificar las siguientes condiciones de calidad. 
 
@@ -164,20 +167,22 @@
       .bloque-texto-g__texto.p-4(data-aos="fade-left")
         p.mb-0 Para conservar correctamente los huevos, se deben garantizar las condiciones adecuadas de temperatura (máximo 10 ºC), y humedad del ambiente (menos de 80%) con el fin de evitar la proliferación de hongos y microorganismos que puedan dañar el huevo.
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_7_4 7.4 Vida últil del huevo de gallina 
+    Separador
+    #t_7_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 7.4 Vida últil del huevo de gallina 
     
     p Partiendo del hecho que no todos los huevos tienen fecha de vencimiento, sobre todo si se compran por unidades en tiendas o supermercados pequeños, debemos tener en cuenta indicadores que nos permitan saber fácilmente si el producto se encuentra fresco y apto para el consumo. 
     p El tiempo de vida útil óptimo de un huevo es alrededor de tres semanas. Sin embargo, con el almacenamiento y pasar del tiempo, este puede sufrir cambios que afecten su calidad como lo son la eliminación de vapor de agua a través de los poros de la cáscara, ocasionando pérdidas en el peso y amplitud en la cámara de aire. Además, la pérdida de consistencia de la albúmina y las chalazas, así como la desubicación de la posición central de la yema, características propias de un huevo fresco.  
     p.mb-5 La temperatura también juega un papel importante en la conservación de la frescura del huevo, por eso debe evitarse los cambios repentinos de temperatura los cuales pueden favorecer la entrada de bacterias u hongos como consecuencia de la condensación de agua en la superficie de la cáscara y apertura de los poros.  De acuerdo con las razones expuestas anteriormente no es recomendable refrigerar los huevos en las etapas de almacenamiento y distribución, sino una vez lleguen al consumidor final.
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_7_5 7.5 Sistemas de higienización de los huevos de gallina
+    Separador
+    #t_7_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 7.5 Sistemas de higienización de los huevos de gallina
 
     p.mb-5 Los factores determinantes para saber si un huevo es apto para el consumo son la limpieza y la integridad. Teniendo en cuenta lo anterior, los huevos con cáscaras sucias, rotas o fisuradas no podrán comercializarse para consumo humano dado que, al presentar estas condiciones, los microorganismos adheridos a la superficie pueden penetrar en el interior del huevo y contaminarlo, generando un riesgo para la integridad del consumidor.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 Proceso de lavado de huevo 
+      h3 Proceso de lavado de huevo 
 
     p.mb-5 Un huevo sucio puede tratarse de dos maneras (lavado y raspado), el raspado elimina la suciedad, pero también daña la cutícula exterior del huevo, por lo que es recomendable utilizar el método del lavado siempre y cuando se respeten las siguientes condiciones:
 
@@ -230,7 +235,7 @@
           p <strong>Secado:</strong> este se realiza directamente con aire (natural o artificial) y no debe tardar más de 30 segundos.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 Lavado, secado y desinfección del huevo
+      h3 Lavado, secado y desinfección del huevo
   
     .row.mb-5
       .col-md-7
@@ -267,10 +272,11 @@
 
       img.mb-5.mb-xl-0.col-xl-4.mx-auto.order-1.order-xl-2(src="@/assets/curso/temas/tema7/img-95.svg" data-aos="fade-left")
 
-    p.mb-5 Se deben utilizar los adecuados productos de limpieza como los detergentes e higienizadores mencionados en el punto anterior. 
+    //- p.mb-5 Se deben utilizar los adecuados productos de limpieza como los detergentes e higienizadores mencionados en el punto anterior. 
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_7_6 7.6 Criterios técnicos y condiciones de aceptación o rechazo de los huevos de acuerdo con el destino final
+    Separador
+    #t_7_6.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 7.6 Criterios técnicos y condiciones de aceptación o rechazo de los huevos de acuerdo con el destino final
 
     p.mb-5 Los criterios técnicos de aceptación o rechazo están basados en las propiedades físicas y organolépticas del huevo que sirven como referente para evaluar la calidad del producto, ver tabla 2.
 

@@ -475,13 +475,12 @@ export default {
       referencia:
         'Instituto de Estudios del Huevo (2006) Seguridad Alimentaria en Huevos y ovoproductos',
       link:
-        'http://www.federovo.net/portal1/images/content/seguridad_alimentaria_huevos_ovoproductos.pdf',
+        'https://www.institutohuevo.com/?s=Seguridad+Alimentaria+en+Huevos+y+ovoproducto',
     },
     {
       referencia:
         'Álvarez Natalia, Gómez Teresa, Ramos Jesús y Jiménez Alicia (2007) Guía De Normas De Higiene Para El Sector De Huevos Y Derivados',
-      link:
-        'https://scholar.google.com/scholar?hl=es&as_sdt=0,5&q=Documentos+tecnicos+de+salud+publica+guia+de+normas+de+higiene+para+el+sector+de+huevos+y+derivados',
+      link: 'http://coli.usal.es/web/Guias/pdf/GMH_sector_huevos_derivados.pdf',
     },
     {
       referencia:

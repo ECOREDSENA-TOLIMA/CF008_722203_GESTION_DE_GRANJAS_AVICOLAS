@@ -9,19 +9,20 @@
     
     p.mb-5 De acuerdo con la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO), una buena práctica es una experiencia positiva, probada y replicada en contextos diversos y que, por consiguiente, puede ser recomendada como modelo. Por esto, merece ser compartida para que el mayor número de personas pueda adaptarla y adoptarla. En ese orden de ideas, en la industria avícola existen varios tipos de buenas prácticas que se implementan dentro del proceso productivo: buenas prácticas de bioseguridad, avícolas, de manufactura y todas ellas dirigidas al cumplimiento e implementación del sistema HACCAP. (FAO, 2021). A continuación, se explican las más importantes. 
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_2_1 2.1 Las buenas prácticas de bioseguridad en granjas de reproducción aviar y plantas de incubación
+    Separador
+    #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 2.1 Las buenas prácticas de bioseguridad en granjas de reproducción aviar y plantas de incubación
 
     p Dentro de la cadena completa de producción aviar deben estar aplicados los principios y prácticas generales de bioseguridad en el sistema de granjas de abuelas, reproductoras y comerciales; y las plantas de incubación y plantas de beneficio para el procesamiento de las aves. Además, estas deben ofrecer una capacitación permanente a todo el equipo de trabajo, haciéndolos más eficientes y productivos.
     p.mb-5 Estas prácticas abarcan la infraestructura, el personal operativo, los equipos y utensilios, materias primas e insumos que intervengan en las diferentes granjas, así como la producción, procesamiento, embalaje, almacenamiento, transporte, distribución y comercialización en el territorio nacional.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 Instalaciones físicas
+      h3 Instalaciones físicas
 
     p.mb-5 Los tipos de riesgos que existen dentro de la producción avícola pueden ser físicos, químicos o biológicos. Por tanto, los programas de bioseguridad en las granjas están enfocados hacia el control de los agentes infecciosos ya que son los mayores productores de riesgos para la materia prima (alimento, aves e insumos), el trabajador, la comunidad y su entorno. Por lo anterior, es que las granjas deben cumplir con las condiciones básicas establecidas para:
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 Localización y acceso
+      h3 Localización y acceso
 
     p.mb-5 A continuación, se presenta una correcta disposición de una granja avícola, ver figura 1. 
 
@@ -29,12 +30,13 @@
       .titulo-sexto.color-primario(data-aos="fade-right")
         h5 Figura 1.
         span <em>Ubicación, perímetro y distancias entre los galpones</em>
-      img.d-md-block(src="@/assets/curso/temas/tema2/img-2.svg" data-aos="fade-left")
+      img.d-md-block(src="@/assets/curso/temas/tema2/img-2.png" data-aos="fade-left" alt="En la figura 1 se muestra la ubicación, perímetro y distancias entre los galpones.")
+      figcaption.mt-2 Nota. Tomado del sitio avícola: de Importancia de la bioseguridad exterior, (2015). <a href="https://www.elsitioavicola.com/articles/2804/importancia-de-la-bioseguridad-exterior/" style="color:blue" target="_blank">https://www.elsitioavicola.com/articles/2804/importancia-de-la-bioseguridad-exterior/</a>
 
     p.mb-5 Deben ubicarse en zonas rurales, a cierta distancia de las carreteras más transitadas, estar alejada de otras producciones pecuarias; establecerse un cerco perimetral y un arco sanitario que permita la desinfección de los vehículos que ingresen a la granja. Además, se requiere tener señalizadas las áreas, equipos, instalaciones, prevención de riesgos y seguridad industrial; todo personal que quiera ingresar a la granja debe someterse al protocolo de limpieza y desinfección.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 Diseño y construcción de las granjas de las plantas de incubación 
+      h3 Diseño y construcción de las granjas de las plantas de incubación 
 
     p.mb-5 Las instalaciones deben permitir la fácil limpieza y desinfección, contar con protección en general contra animales que no pertenecen a la producción y que son considerada plagas como insectos, roedores y otras aves, además de otras condiciones como:
     
@@ -47,7 +49,7 @@
 
           .col-md-5.px-3
             figure
-              img(src='@/assets/curso/temas/tema2/imagen_1.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/imagen_1.png', alt='')
 
         .row
           .col-md-6.mb-4.mb-md-0
@@ -56,7 +58,7 @@
 
           .col-md-5.px-3
             figure
-              img(src='@/assets/curso/temas/tema2/imagen_2.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/imagen_2.png', alt='')
 
         .row
           .col-md-6.mb-4.mb-md-0
@@ -65,16 +67,17 @@
 
           .col-md-5.px-3
             figure
-              img(src='@/assets/curso/temas/tema2/imagen_3.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/imagen_3.png', alt='')
 
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-primario(data-aos="fade-right")
         h5 Figura 2.
         span <em>Galpón avícola</em>
-      img.d-md-block(src="@/assets/curso/temas/tema2/img-3.svg" data-aos="fade-left")
+      img.d-md-block(src="@/assets/curso/temas/tema2/img-3.png" data-aos="fade-left" alt="En la figura 2 se muestra un plano de un galpón avícola.")
+      figcaption Nota. Instalación de una granja avícola con sus diferentes ambientes para cada proceso de la producción de aves. Imagen tomada de Bibliocad. (Álvarez, s.f.). <a href="https://www.bibliocad.com/es/biblioteca/galpon-avicola_112619/" style="color:blue" target="_blank">https://www.bibliocad.com/es/biblioteca/galpon-avicola_112619/</a>
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 Instalaciones sanitarias
+      h3 Instalaciones sanitarias
 
     p.mb-5 La disposición de las instalaciones sanitarias debe seguir las siguientes características: 
 
@@ -104,7 +107,7 @@
         p.text-center Tuberías y desagües deben tener la pendiente y el calibre necesario para permitir la salida efectiva y rápida de los desechos generados en la planta. Los caños deben llevar rejillas y trampas para grasas y sólidos que permitan su limpieza.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 Personal
+      h3 Personal
 
     p.mb-5 En las instalaciones avícolas, es requerido seguir una serie de indicaciones con respecto al uso de los implementos de seguridad como se verá a continuación:
 
@@ -116,7 +119,7 @@
 
           .col-md-5.px-3
             figure
-              img(src='@/assets/curso/temas/tema2/img-13.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/img-13.png', alt='')
 
         .row
           .col-md-6.mb-4.mb-md-0
@@ -124,7 +127,7 @@
 
           .col-md-5.px-3
             figure
-              img(src='@/assets/curso/temas/tema2/img-14.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/img-14.png', alt='')
 
         .row
           .col-md-6.mb-4.mb-md-0
@@ -132,7 +135,7 @@
 
           .col-md-5.px-3
             figure
-              img(src='@/assets/curso/temas/tema2/img-15.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/img-15.png', alt='')
 
         .row
           .col-md-6.mb-4.mb-md-0
@@ -140,7 +143,7 @@
 
           .col-md-5.px-3
             figure
-              img(src='@/assets/curso/temas/tema2/img-17.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/img-17.png', alt='')
 
         .row
           .col-md-6.mb-4.mb-md-0
@@ -148,10 +151,10 @@
 
           .col-md-5.px-3
             figure
-              img(src='@/assets/curso/temas/tema2/img-18.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/img-18.png', alt='')
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 Equipos y utensilios
+      h3 Equipos y utensilios
 
     p Los equipos y utensilios requieren ser fabricados con materiales que sean fáciles de limpiar y desinfectar, pero resistentes a la corrosión, que no estén recubiertos con pinturas o materiales desprendibles. 
     p Aquellos destinados para almacenar desechos es necesario que sean resistentes a la corrosión, de material impermeable, a prueba de fugas, debidamente identificados y de fácil limpieza. 
@@ -175,8 +178,9 @@
             | Ver el video “BIOSEGURIDAD - Aspectos técnicos de bioseguridad en granjas avícolas” y “Bioseguridad y Manejo de Granjas Avícolas”.<br><br>
         p Materiales que se encuentran disponibles dentro de los complementarios.
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_2_2 2.2 Buenas prácticas de manufactura
+    Separador
+    #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 2.2 Buenas prácticas de manufactura
 
     p Las Buenas Prácticas de Manufactura BPM son los requisitos en general de higiene en la manipulación, preparación, elaboración, envasado, almacenamiento, transporte y distribución de alimentos para consumo humano, cuyo fin es garantizar que los productos en las cada uno de estos procesos cumplan adecuadamente con las condiciones sanitarias para disminuir los riesgos relacionados a la producción.
     p El Instituto Nacional de Vigilancia de Medicamentos y Alimentos - INVIMA es una de las autoridades sanitarias encargadas de vigilar las BPM y emitir conceptos sanitarios al igual que los entes territoriales de salud, mientras instituciones como el SENA están encargados de capacitar y certificar a quienes se instruyen en esta temática. Sin embargo, es el mismo INVIMA quien emite el certificado de BPM a las empresas como tal.
@@ -190,28 +194,28 @@
           .row(numero="1" titulo="Biológico")
             .col-md-6.mb-3
               figure
-                img(src='@/assets/curso/temas/tema2/img-20.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema2/img-20.png', alt='')
             .col-md-6.mb-4.mb-md-0
               p.text-small Estos contaminantes tienen amplia y rápida propagación y pueden aparecer por una mala limpieza de las zonas, el ineficiente uso de agentes desinfectantes o los traslados de una zona a otra, en este tipo de contaminante están incluidos las bacterias, virus y hongos o levaduras.
 
           .row(numero="2" titulo="Físico")
             .col-md-6.mb-3
               figure
-                img(src='@/assets/curso/temas/tema2/img-21.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema2/img-21.png', alt='')
             .col-md-6.mb-4.mb-md-0
               p.text-small Su presencia se debe a contaminantes traídos por el aire, agua, suelo como huevos, heces fecales, patas y alas de insectos, o elementos extraños como vidrio, madera, plástico, esmalte, uñas, cabellos, entre otros.
 
           .row(numero="3" titulo="Químico")
             .col-md-6.mb-3
               figure
-                img(src='@/assets/curso/temas/tema2/img-22.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema2/img-22.png', alt='')
             .col-md-6.mb-4.mb-md-0
               p.text-small Su presentación se debe a la presencia de sustancias o residuos químicos que por accidente se incorporan a los productos alimenticios, estos pueden ser plaguicidas, fertilizantes, desinfectantes, antisépticos, entre otros.
 
       img.mb-4.mb-xl-0.col-xl-4.mx-auto.order-1.order-xl-2(src="@/assets/curso/temas/tema2/img-23.svg" data-aos="fade-left")
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 Aplicación de la normatividad
+      h3 Aplicación de la normatividad
 
     p.mb-5 Respecto a la normatividad las BPM se abarcan aspectos esenciales para tener en cuenta dentro del proceso productivo y que se describirán a continuación para entender cómo se puede aplicar las BPM de una forma más práctica:
 
@@ -224,7 +228,7 @@
 
           .col-md-5.px-3
             figure
-              img(src='@/assets/curso/temas/tema2/img-24.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/img-24.png', alt='')
 
         .row
           .col-md-6.mb-4.mb-md-0
@@ -233,7 +237,7 @@
 
           .col-md-5.px-3
             figure
-              img(src='@/assets/curso/temas/tema2/img-25.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/img-25.png', alt='')
 
         .row
           .col-md-6.mb-4.mb-md-0
@@ -242,7 +246,7 @@
 
           .col-md-5.px-3
             figure
-              img(src='@/assets/curso/temas/tema2/img-26.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/img-26.png', alt='')
 
         .row
           .col-md-6.mb-4.mb-md-0
@@ -251,7 +255,7 @@
 
           .col-md-5.px-3
             figure
-              img(src='@/assets/curso/temas/tema2/img-27.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/img-27.png', alt='')
 
         .row
           .col-md-6.mb-4.mb-md-0
@@ -260,7 +264,7 @@
 
           .col-md-5.px-3
             figure
-              img(src='@/assets/curso/temas/tema2/img-28.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/img-28.png', alt='')
 
         .row
           .col-md-6.mb-4.mb-md-0
@@ -269,16 +273,22 @@
 
           .col-md-5.px-3
             figure
-              img(src='@/assets/curso/temas/tema2/img-29.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/img-29.png', alt='')
 
         .row
           .col-md-6.mb-4.mb-md-0
             h4 Registro de permiso o notificación sanitaria
             p Los alimentos que sean transformados y se comercialicen empacados deberán tramitar el respectivo registro, permiso o notificación de acuerdo con el riesgo en salud pública contemplado en la Resolución 719 de 2015.
-
           .col-md-5.px-3
             figure
-              img(src='@/assets/curso/temas/tema2/img-30.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/img-30.png', alt='')
+        .row
+          .col-md-6.mb-4.mb-md-0
+            h4 Para concluir
+            p En conclusión, la implementación de las BPM se debe hacer de una manera responsable y organizada que permita su cumplimiento, esto brindará beneficios en el proceso productivo y en la calidad del producto final garantizando la calidad e inocuidad del huevo.
+          .col-md-5.px-3
+            figure
+              img(src='@/assets/curso/temas/tema2/img-30b.png', alt='') 
 
     .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
@@ -288,15 +298,16 @@
         p.mb-0 Para conocer más sobre las BPM se recomienda al aprendiz ver los videos “[TUTORIAL] Buenas Prácticas de Manufacturas | BPM-GMP” y “Buenas Prácticas de Manufactura en La Industria Alimentaria” disponibles en el material complementario. <br><br>
         p.mb-0 Materiales que se encuentran disponibles dentro de los complementarios.
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_2_3 2.3 Buenas prácticas de higiene personal
+    Separador
+    #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 2.3 Buenas prácticas de higiene personal
 
     p Las personas que trabajan en la manipulación de alimentos se consideran con un alto factor de riesgo, ya que son fuentes altamente contaminantes; en especial aquellas que laboran en granjas, en procesos de cultivo, cosecha empaque y almacenamiento, ya que sus actividades son fundamentales para asegurar la inocuidad de los productos agropecuarios.
     p Como todo animal, el ser humano alberga gérmenes en varias partes de su cuerpo, las cuales, sino se tiene el cuidado suficiente puede transferir a superficies, utensilios y alimentos contaminándolos y por consiguiente provocando enfermedad. En varios reportes de enfermedades transmitidas por alimentos ETAS se relaciona la contaminación de los alimentos por la mala higiene y/o mala salud de los trabajadores vinculados con el producto. Es por eso que se debe prestar especial atención a partes como: la piel, la nariz, la boca, las manos y el pelo, y enfatizar en lo importan de adoptar prácticas como el lavado de manos en todas las fases de producción y en especial a las de recolección y empaquetamiento.
     p.mb-5 A continuación, se describen aquellas buenas prácticas que todo el personal debe acatar para la correcta manipulación del producto. 
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 Lavado de Manos y Uñas
+      h3 Lavado de Manos y Uñas
 
     p Todo personal que tenga contacto directo con los alimentos y los manipule frecuentemente, debe lavarse las manos, incluido los visitantes. Es por eso que se debe tener una estricta medida de higiene y actuar del siguiente modo:
     ul.lista-ul
@@ -348,7 +359,7 @@
     p.mb-5 Un lugar para lavado de manos debe tener los siguientes componentes: agua (fría y/o caliente), jabón líquido, elementos para secarse las manos como toallas desechables, caneca de basura para descartar las toallas desechables utilizadas en el secado de manos avisos, pancartas o letreros que estén escritos en un lenguaje entendible para todos los trabajadores. De igual manera, poner en los puntos de ingreso importantes, carteles con un resumen de las normas de higiene de la granja.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 Baño o ducha, vestimenta, uso de joyas y control de hábitos
+      h3 Baño o ducha, vestimenta, uso de joyas y control de hábitos
 
     p.mb-5 Los hábitos de higiene personal como la ducha, el uso de accesorios, la vestimenta y el control de costumbres como fumar o masticar chicle, influyen en la manipulación de alimentos y en el aumento o disminución de los factores de riesgo en la contaminación para los mismos. Es por esto que se deben tener en cuenta las siguientes prácticas:
 
@@ -423,7 +434,7 @@
           p No está permitido el tabaco, ya que mientras se está fumando, se toca la boca y por lo tanto se pueden transmitir bacterias patógenas, como los estafilococos, a los alimentos, favorece la tos y los estornudos. las cenizas y las colillas pueden caer en los alimentos contaminándolos, además estas colillas, contaminadas con saliva, se apoyan en las superficies de trabajo y pueden favorecer la contaminación cruzada. Es por esto que las áreas para fumar designadas, deben ser cerradas, controladas y estar bien aisladas de las áreas en contacto con los alimentos para garantizar que el humo no llegue al producto.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 Lavado de dientes y cuidado del cabello
+      h3 Lavado de dientes y cuidado del cabello
 
     p Se debe cepillar los dientes para eliminar los restos de comida y evitar contaminación por bacterias en la boca que puedan causar placa bacteriana y caries, el lavado de la boca debe hacerse realizando movimientos de arriba hacia abajo unas 10 a 15 veces cada dos o tres dientes, cepillando cuidadosamente su superficie interna.
     p.mb-5 El cabello está continuamente mudando y, además, recoge con facilidad, polvo, humos y suciedad. Por esta razón debe evitarse que entre en contacto con los alimentos. El manipulador no debe tocarse el pelo mientras trabaja con alimentos; en caso de hacerlo ha de lavarse las manos antes de volver a tocar los utensilios o productos. El pelo debe mantenerse limpio, recogido y con protección que lo cubra por completo, esto debe hacerse durante todo el tiempo laboral. La barba y el cabello facial no se permiten, a no ser que estén protegidos totalmente.
@@ -435,8 +446,9 @@
       .bloque-texto-g__texto.p-4(data-aos="fade-left")
         p.mb-0 Para conocer más acerca de las buenas prácticas de higiene personal se le sugiere al aprendiz consultar el “Manual para Manipuladores de Alimentos” y “Buenas Prácticas Higiénicas” que se encuentran disponibles dentro del material complementario.
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-down")
-      h2#t_2_4 2.4 Procedimientos higienización 
+    Separador
+    #t_2_4.titulo-segundo.color-acento-contenido(data-aos="fade-down")
+      h2 2.4 Procedimientos higienización 
 
     p(data-aos="fade-down") La higienización es un proceso que tiene como fin limpiar y desinfectar el equipo, superficies de trabajo e instalaciones para evitar su deterioro y la contaminación alimenticia por presencia de factores físicos, químicos y biológicos (Soluciones Gastronómicas, 2020). En los diversos centros de trabajo en los que se realizan auditorías de HACCAP (comedores escolares, residencias de mayores, empresas de alimentación) se suele llevar a cabo un plan de limpieza que se ejecute de manera periódica y en el que se señale los métodos de limpieza, productos y personas encargadas. (Alonso, 2019).
     p.mb-5(data-aos="fade-down") Aunque higienización, limpieza y desinfección puedan parecer palabras casi sinónimas, cada una de ellas hace referencia a un proceso distinto.
@@ -451,7 +463,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/temas/tema2/decorador-6.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/decorador-6.svg', alt='')
           
         h2.text-center(style="color: #000") Detergentes
         p(style="color: #000") Productos de limpieza que intervienen con la suciedad y permite eliminarla, hay varios tipos en el mercado, sin embargo, los más representativos son:
@@ -473,7 +485,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/temas/tema2/decorador-7.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/decorador-7.svg', alt='')
           
         h2.text-center Desinfectantes
         p Son aquellos productos químicos que aplicados sobre la superficie a desinfectar van a reducir la presencia de microorganismos hasta niveles que no sean peligrosos para la salud. La desinfección se puede lograr mediante métodos físicos (aplicando vapor de agua o aire caliente) o mediante métodos químicos (utilizando sustancias químicas). El método químico es el más utilizado, y dentro de este tipo de sustancias se destaca:
@@ -485,17 +497,18 @@
             i.lista-ul__vineta
             | Sales de amonio: tienen una gran eficacia frente a las bacterias, no son tóxicos ni irritantes y controlan los olores.
     
-    .titulo-segundo.color-acento-contenido(data-aos="fade-down")
-      h2#t_2_5 2.5 Dotación
+    Separador
+    #t_2_5.titulo-segundo.color-acento-contenido(data-aos="fade-down")
+      h2 2.5 Dotación
 
-    p.mb-5 Como se ha visto anteriormente, la indumentaria para esta etapa está basada en cumplir con las normas de bioseguridad y la de riesgos laborales, se recomienda el uso de gorro o cofia, tapabocas, ropa clara se sugiere que sea antifluido, uso de guantes de nitrilo o látex, calzado antideslizante, cerrado y de color claro, que permita la fácil limpieza y desinfección, o en su defecto botas de caña alta en caucho. 
+    p.mb-5 Como se ha visto anteriormente, la indumentaria para esta etapa está basada en cumplir con las normas de bioseguridad y la de riesgos laborales, se recomienda el uso de gorro o cofia, tapabocas, ropa clara se sugiere que sea antifluido, uso de guantes de nitrilo o látex, calzado antideslizante, cerrado y de color claro, que permita la fácil limpieza y desinfección, o en su defecto botas de caña alta en caucho, en la siguiente figura, pueden apreciarse las características de la dotación, y condiciones para trabajadores en las empresas avícolas:
 
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-primario(data-aos="fade-right")
         h5 Figura 3.
         span <em>Características y condiciones de la dotación</em>
-      img.d-md-block.mb-5(src="@/assets/curso/temas/tema2/img-35.svg" data-aos="fade-down")
-      figcaption Nota. El cumplimiento de las buenas prácticas de higiene en la preparación de productos. QuimiNet (2012.
+      img.d-md-block.mb-5(src="@/assets/curso/temas/tema2/img-35.svg" data-aos="fade-down" alt="En la figura 3 se muestran las características y condiciones de la dotación.")
+      figcaption Nota. El cumplimiento de las buenas prácticas de higiene en la preparación de productos. QuimiNet (2012), <a style="color:blue" target="_blank" href="https://www.quiminet.com/articulos/el-cumplimiento-de-las-buenas-practicas-de-higiene-en-la-preparacion-de-productos-3372733.htm">https://www.quiminet.com/articulos/el-cumplimiento-de-las-buenas-practicas-de-higiene-en-la-preparacion-de-productos-3372733.htm</a>
 
 
 

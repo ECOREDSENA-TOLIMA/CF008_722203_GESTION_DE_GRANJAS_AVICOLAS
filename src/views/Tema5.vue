@@ -11,7 +11,7 @@
     p.mb-5 Para que el huevo cumpla los requisitos de calidad, los numerosos componentes que lo integran deben ser sintetizados correctamente y deben disponerse en la secuencia, cantidad y orientación adecuada. El éxito de este proceso de formación del huevo se basa en que las gallinas son alimentadas con nutrientes de alta calidad y mantenidas en situación de confort ambiental y óptimo estado sanitario. 
     
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 El huevo se divide en tres partes:
+      h3 El huevo se divide en tres partes:
 
     p.mb-5 Al realizar un corte transversal a un huevo, se pueden diferenciar claramente sus tres partes: cáscara, albumen (clara), y vitelo (yema), separadas entre sí por medio de membranas que mantienen su integridad. El peso promedio de un huevo está alrededor de los 60 g, de los cuales, la clara representa aproximadamente el 60%, la yema el 30% y la cáscara, junto a las membranas, el 10% del total. A continuación, se explica cada una de sus partes: 
 
@@ -34,16 +34,18 @@
           .h5 Yema o vitelo
           p Parte central del huevo, que se encuentra rodeada de la membrana vitelina, su color anaranjado, aunque puede variar en función de la alimentación que se le suministra a las gallinas. Nutricionalmente, es la parte más valiosa del huevo, debido a que concentra la mayor parte de lípidos, minerales y vitaminas.
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_5_1 5.1 Ciclo de postura
+    Separador
+    #t_5_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 5.1 Ciclo de postura
 
     p En las aves de corral el ciclo de postura tiene que ver directamente con la línea genética a la que pertenezca, empero en rasgos generales podría decirse que las gallinas ponedoras se mantienen en producción hasta 75 a 80 las semanas de edad, aunque el periodo real de postura es de solo 55 a 60 semanas como máximo porque estas aves empiezan a poner huevos cerca o durante la semana 20, en este ciclo una gallina puede poner en promedio 360 huevos. 
     p Para que este ciclo sea eficiente y se presente con regularidad es de gran importancia tener en cuenta que la alimentación en ponedoras debe ser de acuerdo con sus requerimientos nutricionales, según la edad en semanas y su ciclo de postura, puesto que desde pequeñas se les debe garantizar un buen crecimiento y desarrollo, lo cual influenciará directamente en la postura de huevos más adelante. 
     p Las gallinas ponedoras deben recibir un alimento balanceado de acuerdo con sus requerimientos nutricionales por el número de semanas de edad y su fase en el ciclo de postura. 
     p.mb-5 Ofrecer concentrado etapa de pre - postura de las 5 hasta las 19 semanas, al llegar a la semana 20 se inicia con la ración de alimento de la fase de postura y se revuelve con el anterior para disminuir problemas relacionados con los cambios drásticos de alimentación; ya en la semana 21 empieza la postura, se les suministra exclusivamente el alimento concentrado de la fase de postura.
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 5.2 Fases del ciclo de postura 
+    Separador
+    #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 5.2 Fases del ciclo de postura 
     
     p.mb-5 El ciclo productivo de las gallinas ponedoras se divide en cinco fases: preinicio, inicio, desarrollo, pre-postura y postura. La duración de este ciclo puede variar de acuerdo con la línea genética elegida, sistemas productivos y condiciones lumínicas, de temperatura y alimenticias. 
 
@@ -79,7 +81,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             h4 Fase de pre postura <br> Semanas 16 - 17 y 18
-            p En esta etapa se sugiere la ingesta de alimentos ricos en calcio y fósforo puesto que  se finaliza el desarrollo de los ovarios , hígado, oviducto, hueso medular (reserva de calcio para la formación de la cáscara de huevo), órganos considerados de importancia para la producción del huevo, Además se estructuran los lípidos corporales  como reserva de energía.
+            p En esta etapa se sugiere la ingesta de alimentos ricos en calcio y fósforo puesto que  se finaliza el desarrollo de los ovarios, hígado, oviducto, hueso medular (reserva de calcio para la formación de la cáscara de huevo), órganos considerados de importancia para la producción del huevo, Además se estructuran los lípidos corporales  como reserva de energía.
 
           .col-md-5.px-3
             figure
