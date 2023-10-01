@@ -285,7 +285,7 @@ export default {
     {
       tema: '4. Equipos y utensilios y POES',
       referencia: 'Big Dutchman. Sistema de recolección de huevos 12/2008',
-      tipo: 'Catálogo',
+      tipo: 'Documento',
       link:
         'https://www.interempresas.net/FeriaVirtual/Catalogos_y_documentos/6611/Egg_collection_systems.pdf',
     },
@@ -493,6 +493,10 @@ export default {
         'Palomino Tania (2012) Desarrollo E Implementación Del Plan De Calidad Para Huevo Comercial En Incubadora Santander S.A Bodega Bellavista',
       link:
         'https://repository.unad.edu.co/bitstream/handle/10596/1527/Tania_Palomino__plan_de_calidad_producto.pdf?sequence=1&isAllowed=y',
+    },
+    {
+      referencia:
+        'Malekian Fatemeh et al. (2011) Buenas prácticas de higiene personal ',
     },
   ],
   creditos: [
